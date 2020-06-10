@@ -65,4 +65,6 @@ Args: n_spaces (int)
 
 Returns: x values (list), y values (list)
 
-You can also add two together two distributions by using **+** operator.
+
+
+_You can also add together two objects of a distribution by using **+** operator._
