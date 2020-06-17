@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: sp-distributions
+Version: 0.1.1
+Summary: A statistical package to compute Mean and Standard deviation on of various Probability distributions
+Home-page: UNKNOWN
+Author: Sandip Palit
+Author-email: sandippalit009@gmail.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.6
